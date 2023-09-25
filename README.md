@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srumangala, a 23 year old girl from India
-- 👀 I’m interested in Machine Learning, Deep learning and Computer vision in particular
-- 🌱 I’m currently doing my master's in Electrical Engineering at the University of Stuttgart. I am in my first semester
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 👀 I’m interested in Programming in C, Cpp, Python, especially in Machine Learning.
+- 🌱 I’m currently doing my master's in Electrical Engineering at the University of Stuttgart.
+- 💞️ I’m looking to collaborate on Deep Learning Projects and Cpp Projects
 - 📫 How to reach me : linkedin https://www.linkedin.com/in/sruthimangala/
