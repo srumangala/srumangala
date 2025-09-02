@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @srumangala, a 23 year old girl from India
-- 👀 I’m interested in Programming in C, Cpp, Python and Java.
+- 👋 Hi, I’m @srumangala, a 25 year old girl from India
+- 👀 I’m interested in Programming in C, Cpp and Python
 - 🌱 I’m currently doing my master's in Electrical Engineering at the University of Stuttgart.
 - 💞️ I’m looking to collaborate on Deep Learning Projects and Cpp Projects
 - 📫 How to reach me : linkedin https://www.linkedin.com/in/sruthimangala/
